@@ -35,7 +35,7 @@ I am a college student passionate about web development and software engineering
 
 ## Projects
 
-Currently on a Project.
+Currently working on a Project.
 
 Feel free to check out my GitHub repositories for more projects and code examples.
 
