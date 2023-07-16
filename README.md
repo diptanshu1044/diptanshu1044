@@ -35,7 +35,7 @@ I am a college student passionate about web development and software engineering
 
 ## Projects
 
-Currently working on a Project.
+[Spotify Clone](https://github.com/diptanshu1044/Spotify-Clone)
 
 Feel free to check out my GitHub repositories for more projects and code examples.
 
